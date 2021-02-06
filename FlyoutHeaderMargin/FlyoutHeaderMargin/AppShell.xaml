@@ -75,7 +75,8 @@
     </Shell.Resources>
 
     <Shell.FlyoutHeader>
-        <Grid BackgroundColor="LightBlue">
+        <Grid BackgroundColor="LightBlue"
+              Margin="0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="80" />
